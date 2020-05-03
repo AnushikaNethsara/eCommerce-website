@@ -1,0 +1,47 @@
+.ButtonContainer{
+    text-transform: capitalize;
+    font-size: 1rem;
+    background: transparent;
+    border: none;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.ButtonContainer:hover{
+    color: lightseagreen;
+    border: none;
+}
+.all{
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+    border-radius: 20px;
+    color:  blueviolet;;
+}
+
+
+
+
+#logo{
+    color: black;
+    font-size: 20px;
+    transition: all 2s ease-in-out;
+    font-weight: bold;
+    
+}
+#logo:hover{
+    color: lightseagreen;
+}
+.navi{
+    font-size: 15px;
+}
+#plate{
+    color: black;
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+#plate:hover{
+    color: lightseagreen;
+    text-decoration: none;
+}
+

@@ -1,0 +1,17 @@
+.img-container{
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+.img-container:hover #card-img-top {
+    transform: scale(1.2);
+}
+#card-img-top{
+    transition: all 1s linear;
+}
+.title{
+    cursor: pointer;
+}
+#cam-card:hover{
+    box-shadow: 5px 5px 5px -2px rgba(0,0,0,.2)
+}

@@ -1,0 +1,60 @@
+#trash{
+    color: black;
+    padding: 15px;
+    transition: all 0.5s ease-in-out;
+    font-size: 20px;
+}
+#trash:hover{
+    color:#f6463d ;
+}
+
+
+
+.clear{
+    background-color: transparent;
+    border-style: solid;
+    padding: 10px;
+    text-transform: capitalize;
+    background-color: rgba(0,0,0,.2);
+    transition: all 0.5s ease-in-out;
+    border-radius: 5PX;
+    text-shadow: black;
+}
+.clear:hover{
+    background-color:rgba(0,0,0,.5);
+    color: cornsilk;
+}
+.totalas{
+    padding: 10px;
+}
+
+.inde{
+    border-style: solid;
+    padding: 8px;
+    background-color: rgba(0,0,0,.1);
+    height: 40px;
+    font-size: 25px;
+    width: 40px;
+    border-style: black;
+    text-align: center;
+    border-radius: 10px;
+    text-transform: capitalize;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    
+}
+.inde:hover{
+    background-color: rgba(0,0,0,.2);
+    color: blanchedalmond;
+}
+
+.count{
+    padding: 8px;
+    font-size: 18px;
+    margin: 5px;
+    border-radius: 10px;
+    height: 40px;
+    color: black;
+    background-color: rgba(0,0,0,.2);
+}
